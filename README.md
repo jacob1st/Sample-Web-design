@@ -11,7 +11,11 @@ https://www.pexels.com/photo/gray-building-1362508/
 https://www.pexels.com/photo/ground-group-growth-hands-461049/
 
 
-Sample Picture from the "About us" webpage:
+Sample Pictures from the "About us" webpage:
+-----
+![home](https://github.com/jacob1st/Sample-Web-design/blob/main/readme/sample_home.PNG)
 -----
 ![about_us](https://github.com/jacob1st/Sample-Web-design/blob/main/readme/about_us.PNG)
+-----
+![contact](https://github.com/jacob1st/Sample-Web-design/blob/main/readme/sample_contact.PNG)
 
